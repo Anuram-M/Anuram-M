@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anuram-M
 - 👀 I’m interested in being an android application developer
-- 🌱 I’m currently learning UI Design principles
+- 🌱 I have hands-on experience on working with Java and Kotlin for android application development and I’m currently learning UI Design principles in Jetpack Compose
 - 💞️ I’m looking to collaborate on projects for the benefit of me(learning)and others
 - 📫 How to reach me anuram.mohan.85@gmail.com
 
